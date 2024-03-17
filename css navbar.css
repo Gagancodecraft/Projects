@@ -1,0 +1,15 @@
+.navbar{
+    height: 400px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+
+}
+
+#div2{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: azure;
+}
